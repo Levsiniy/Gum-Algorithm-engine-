@@ -147,5 +147,4 @@ ________________________________________
 •	Humanities problems are not reduced to numbers, but they are checked for logical correctness, consistency, and source justification.
 ________________________________________
 Notes
-This README is intended as a conceptual specification. Implementation details such as serialization, LLM integration, and argumentation semantics are left open.
-
+This README is intended as a conceptual specification. Implementation details such as serialization, LLM integration, and 
